@@ -1,0 +1,2 @@
+-- Sample rows are inserted by sql/install.php so officer passwords are hashed with password_hash().
+-- Do not import plaintext passwords. After schema.sql, open install.php in the browser (or re-run it).
